@@ -1,0 +1,16 @@
+C:\Users\juliano.maciel\source\repos\Aula.23.02.2023\Aula.Classes\bin\Debug\net5.0\Aula.Classes.exe
+C:\Users\juliano.maciel\source\repos\Aula.23.02.2023\Aula.Classes\bin\Debug\net5.0\Aula.Classes.deps.json
+C:\Users\juliano.maciel\source\repos\Aula.23.02.2023\Aula.Classes\bin\Debug\net5.0\Aula.Classes.runtimeconfig.json
+C:\Users\juliano.maciel\source\repos\Aula.23.02.2023\Aula.Classes\bin\Debug\net5.0\Aula.Classes.runtimeconfig.dev.json
+C:\Users\juliano.maciel\source\repos\Aula.23.02.2023\Aula.Classes\bin\Debug\net5.0\Aula.Classes.dll
+C:\Users\juliano.maciel\source\repos\Aula.23.02.2023\Aula.Classes\bin\Debug\net5.0\Aula.Classes.pdb
+C:\Users\juliano.maciel\source\repos\Aula.23.02.2023\Aula.Classes\obj\Debug\net5.0\Aula.Classes.csproj.AssemblyReference.cache
+C:\Users\juliano.maciel\source\repos\Aula.23.02.2023\Aula.Classes\obj\Debug\net5.0\Aula.Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juliano.maciel\source\repos\Aula.23.02.2023\Aula.Classes\obj\Debug\net5.0\Aula.Classes.AssemblyInfoInputs.cache
+C:\Users\juliano.maciel\source\repos\Aula.23.02.2023\Aula.Classes\obj\Debug\net5.0\Aula.Classes.AssemblyInfo.cs
+C:\Users\juliano.maciel\source\repos\Aula.23.02.2023\Aula.Classes\obj\Debug\net5.0\Aula.Classes.csproj.CoreCompileInputs.cache
+C:\Users\juliano.maciel\source\repos\Aula.23.02.2023\Aula.Classes\obj\Debug\net5.0\Aula.Classes.dll
+C:\Users\juliano.maciel\source\repos\Aula.23.02.2023\Aula.Classes\obj\Debug\net5.0\refint\Aula.Classes.dll
+C:\Users\juliano.maciel\source\repos\Aula.23.02.2023\Aula.Classes\obj\Debug\net5.0\Aula.Classes.pdb
+C:\Users\juliano.maciel\source\repos\Aula.23.02.2023\Aula.Classes\obj\Debug\net5.0\Aula.Classes.genruntimeconfig.cache
+C:\Users\juliano.maciel\source\repos\Aula.23.02.2023\Aula.Classes\obj\Debug\net5.0\ref\Aula.Classes.dll
