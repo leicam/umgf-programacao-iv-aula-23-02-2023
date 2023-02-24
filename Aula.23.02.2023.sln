@@ -5,7 +5,19 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - Classes", "01 - Classes", "{E2D49656-DFC0-4B64-BC9A-019F5A0E968F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula.Classes", "Aula.Classes\Aula.Classes.csproj", "{B9DBDB63-6BA3-4BBC-AEE1-F28CAED50695}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula.Classes", "Aula.Classes\Aula.Classes.csproj", "{B9DBDB63-6BA3-4BBC-AEE1-F28CAED50695}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 - Metodos", "02 - Metodos", "{E2E05BE9-78A4-47A6-BECD-314ECA7A62C1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula.Metodos", "Aula.Metodos\Aula.Metodos.csproj", "{B9A85075-8337-4FED-A7AE-6E5B8F36AF64}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 - Estruturas", "03 - Estruturas", "{A6F7E4B7-19E6-4111-83BD-3B11C47FEB29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula.Estruturas", "Aula.Estruturas\Aula.Estruturas.csproj", "{2A3E2DC1-922A-4389-9C74-0BEBCC2F1A81}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04 - Estrturas de Repeticao", "04 - Estrturas de Repeticao", "{B802F95F-6A53-47C2-AC7D-C0C0D3FD1943}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula.Estrutura.Repeticao", "Aula.Estrutura.Repeticao\Aula.Estrutura.Repeticao.csproj", "{30A08E0B-E872-4398-9566-B08BE56D7794}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +29,27 @@ Global
 		{B9DBDB63-6BA3-4BBC-AEE1-F28CAED50695}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9DBDB63-6BA3-4BBC-AEE1-F28CAED50695}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9DBDB63-6BA3-4BBC-AEE1-F28CAED50695}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9A85075-8337-4FED-A7AE-6E5B8F36AF64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9A85075-8337-4FED-A7AE-6E5B8F36AF64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9A85075-8337-4FED-A7AE-6E5B8F36AF64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9A85075-8337-4FED-A7AE-6E5B8F36AF64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A3E2DC1-922A-4389-9C74-0BEBCC2F1A81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A3E2DC1-922A-4389-9C74-0BEBCC2F1A81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A3E2DC1-922A-4389-9C74-0BEBCC2F1A81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A3E2DC1-922A-4389-9C74-0BEBCC2F1A81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30A08E0B-E872-4398-9566-B08BE56D7794}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30A08E0B-E872-4398-9566-B08BE56D7794}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30A08E0B-E872-4398-9566-B08BE56D7794}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30A08E0B-E872-4398-9566-B08BE56D7794}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{B9DBDB63-6BA3-4BBC-AEE1-F28CAED50695} = {E2D49656-DFC0-4B64-BC9A-019F5A0E968F}
+		{B9A85075-8337-4FED-A7AE-6E5B8F36AF64} = {E2E05BE9-78A4-47A6-BECD-314ECA7A62C1}
+		{2A3E2DC1-922A-4389-9C74-0BEBCC2F1A81} = {A6F7E4B7-19E6-4111-83BD-3B11C47FEB29}
+		{30A08E0B-E872-4398-9566-B08BE56D7794} = {B802F95F-6A53-47C2-AC7D-C0C0D3FD1943}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E2F6E182-43C2-43E2-9B05-720A9B02E06B}
